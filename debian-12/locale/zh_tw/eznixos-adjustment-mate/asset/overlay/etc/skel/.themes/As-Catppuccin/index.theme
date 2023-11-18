@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=As-Catppuccin-Frappe-B-Full
+Name=As-Catppuccin
 Type=X-GNOME-Metatheme
 Comment=
 
@@ -10,5 +10,3 @@ IconTheme=Catppuccin-Macchiato
 GtkColorScheme=menu_bg: #383c4a
 CursorTheme=breeze_cursors
 CursorSize=24
-NotificationTheme=slider
-BackgroundImage=/usr/share/backgrounds/default.jpg
